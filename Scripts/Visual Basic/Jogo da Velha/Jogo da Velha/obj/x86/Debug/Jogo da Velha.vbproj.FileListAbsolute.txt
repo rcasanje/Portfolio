@@ -1,0 +1,43 @@
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmJogo.resources
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmPrincipal.resources
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.xml
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.xml
+c:\users\aluno\documents\visual studio 2010\Projects\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.xml
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.xml
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.vbprojResolveAssemblyReference.cache
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmJogo.resources
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmPrincipal.resources
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Resources.resources
+F:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.xml
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.xml
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmJogo.resources
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmPrincipal.resources
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Resources.resources
+C:\Users\Admin\Documents\!Casanje\Pendrive\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.vbproj.GenerateResource.Cache
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.xml
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.vbprojResolveAssemblyReference.cache
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmJogo.resources
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.frmPrincipal.resources
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo_da_Velha.Resources.resources
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.vbproj.GenerateResource.Cache
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.xml
+E:\Arquivos\Escola\Desenvolvimento de Software\Projetos\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
