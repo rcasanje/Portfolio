@@ -1,0 +1,17 @@
+#atributos p{
+	margin-top: -5px;
+}
+
+#tbAtributos {
+	margin-top: 10px;
+	border: 1px solid #000;
+}
+
+#tbAtributos tr {
+	margin: 10px;
+}
+
+#tbAtributos td {
+	padding: 5px;
+	border: 1px solid #000;
+}

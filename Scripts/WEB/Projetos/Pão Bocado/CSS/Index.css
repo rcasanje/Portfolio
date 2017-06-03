@@ -1,0 +1,56 @@
+body{
+}
+
+#Banner{
+	margin-top:60px;
+	
+}
+
+#jumbotron01{
+	background-image:url(../Imagens/pao-por-kilo.jpg);
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+#Especialidades{
+	background-color:#F7BA3C;
+	color:#FFFFFF;
+}
+
+#Institucional{
+	background-color:#471107;
+	color:#FFFFFF;
+	padding-bottom:30px;
+}
+
+#Contato{
+	padding-top:5px;
+	background-color:#202020;
+	color:#FFFFFF;
+	padding-bottom:10px;
+}
+
+#Rodape{
+	padding-top:10px;
+	background-color:#111111;	
+	color:#FFFFFF;
+	padding-bottom:10px;
+}
+
+#redondo{
+	border-radius:50%;
+	border:solid 5px;
+}
+
+.caption{
+	text-transform: uppercase;
+	margin-left:25%;
+	color:#FFFFFF;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#uppercase{
+	text-transform: uppercase;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}

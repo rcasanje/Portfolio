@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>YURE LIXO</title>
+</head>
+<body>
+    <form method="" action="">
+        <fieldset><legend>Báscara</legend>
+        <label>Informe o valor de A</label>
+        <input type="text" id = "ValA" name="ValA" value=""><br>
+        <label>Informe o valor de B</label>
+        <input type="text" id = "ValB" name="ValB" value=""><br>
+        <label>Informe o valor de C</label>
+        <input type="text" id = "ValC" name="ValC" value=""><br>
+        <button type="button" onclick = "pegar();">Calcular</button>
+        <br>
+        <label>Resultado</label>
+        <input id="resultado" type="text"/>
+        </fieldset>
+
+    </form>
+</body>
+<script>
+	var res = 0;
+	function bascara(a,b,c){
+		var delta = 0;
+		var res2 = 0;
+		delta = (b*b)-4*a*c;
+		res  = (-b+Math.sqrt(delta))/(2*a);
+		res2 = (-b-Math.sqrt(delta))/(2*a);
+		console.log(res);
+		return res;
+	}
+
+	function pegar(){
+		var ValA = document.getElementById("ValA");
+		var ValB = document.getElementById("ValB");
+		var ValC = document.getElementById("Valc");
+		var resultado = document.getElementById("resultado");
+		resultado.value = bascara(ValA.value, ValB.value, ValC.value);
+	}
+</script>
+</html>
